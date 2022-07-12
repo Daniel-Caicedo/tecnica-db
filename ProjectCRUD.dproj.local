@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/11 17:36:32.000.095,=C:\Users\danie\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 21:46:44.000.509,=C:\Users\danie\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 21:47:52.000.818,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Clientes.dfm=C:\Users\danie\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/11 21:47:52.000.818,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Clientes.pas=C:\Users\danie\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 21:48:03.000.309,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\ProjectCRUD.dproj=C:\Users\danie\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/07/11 22:00:59.000.064,=C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 22:15:02.000.501,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\detalle_clientes.dfm=C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Unit1.dfm</Transaction>
+    <Transaction>2022/07/11 22:15:02.000.501,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\detalle_clientes.pas=C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 22:17:05.000.297,=C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 22:17:37.000.003,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\data_module.pas=C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 22:17:37.000.003,C:\Users\danie\Desktop\prueba tecnica sql\CRUD\data_module.dfm=C:\Users\danie\Desktop\prueba tecnica sql\CRUD\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Clientes.pas"/>
+    <File Path="Clientes.dfm"/>
+    <File Path="data_module.pas"/>
+    <File Path="data_module.dfm"/>
+    <File Path="detalle_clientes.pas"/>
+    <File Path="detalle_clientes.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
